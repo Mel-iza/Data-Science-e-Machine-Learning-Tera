@@ -5,7 +5,12 @@ Data Science e Machine Learning | Tera
 
 ## Módulos do curso
 
-**01 |**  INTRODUÇÃO À CIÊNCIA DE DADOS 
+**01 |**  INTRODUÇÃO À CIÊNCIA DE DADOS <br>
+- Introdução ao Python
+- Python Intermediário
+- Álgebra Linear
+- Estatística Descritiva e Distribuições
+- Estatística Inferencial
 
 **02 |**  PENSAMENTO ANALÍTICO E INTERPRETAÇÃO DO PROBLEMA DE NEGÓCIO
 
