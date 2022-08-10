@@ -5,6 +5,13 @@ Data Science e Machine Learning | Tera
 
 ## Módulos do curso
 
-**01 |**  INTRODUÇÃO À CIÊNCIA DE DADOS
+**01 |**  INTRODUÇÃO À CIÊNCIA DE DADOS 
 
 **02 |**  PENSAMENTO ANALÍTICO E INTERPRETAÇÃO DO PROBLEMA DE NEGÓCIO
+
+**03 |**  MODELAGEM E CONSTRUÇÃO DA SOLUÇÃO
+
+**04 |**  COLOCANDO A SOLUÇÃO À PROVA
+
+**05 |**  COMUNICANDO ANÁLISES E SOLUÇÕES
+
